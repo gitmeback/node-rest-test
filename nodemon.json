@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "Xupzaj-nijtu0-tifgor",
+    "JWT_KEY": "secret"
+  }
+}
